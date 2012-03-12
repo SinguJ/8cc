@@ -3,3 +3,5 @@
 *.o
 tmp.*
 unittest
+nqueen.s
+nqueen
