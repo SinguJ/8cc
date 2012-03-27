@@ -1,6 +1,7 @@
 .idea
 8cc
 *.o
+*.s
 tmp.*
 utiltest
 nqueen.s
