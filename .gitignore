@@ -1,13 +1,8 @@
 .idea
+*.bin
+*.o
+*.s
+*~
 8cc
 stage?
-*.o
-*.o2
-*.s
-tmp.*
 utiltest
-nqueen.s
-nqueen
-*.bin
-*.bin2
-*~
